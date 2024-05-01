@@ -1,0 +1,14 @@
+<component name="ArtifactManager">
+  <artifact type="war" name="zhubaoshoushijiaoyipingtai">
+    <output-path>$PROJECT_DIR$/target</output-path>
+    <properties id="maven-jee-properties">
+      <options>
+        <module>zhubaoshoushijiaoyipingtai</module>
+        <packaging>war</packaging>
+      </options>
+    </properties>
+    <root id="archive" name="zhubaoshoushijiaoyipingtai.war">
+      <element id="artifact" artifact-name="zhubaoshoushijiaoyipingtai:war exploded" />
+    </root>
+  </artifact>
+</component>
